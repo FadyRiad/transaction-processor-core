@@ -61,7 +61,7 @@ IV. Getting Started
 
 Provide clear instructions so anyone can run your tests immediately:
 
-Clone: git clone https://github.com/your-username/your-repo-name.git
+Clone: git clone https://github.com/FadyRiad/transaction-processor-core.git
 
 Build & Test: ./gradlew clean test
 
