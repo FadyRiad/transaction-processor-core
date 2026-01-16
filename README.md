@@ -63,9 +63,12 @@ Provide clear instructions so anyone can run your tests immediately:
 
 Clone: git clone https://github.com/FadyRiad/transaction-processor-core.git
 
-Build & Test: ./gradlew clean test
+-----------------------------------
 
-Run CLI: ./gradlew run
+<img width="400" height="1200" alt="mermaid-ai-diagram-2026-01-16-231416" src="https://github.com/user-attachments/assets/0842dcaf-9312-4343-8bed-0a8a1ae2a160" />
 
 
-    
+
+
+
+
