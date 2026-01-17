@@ -1,6 +1,6 @@
 # transaction-processor-core
 
-A high-performance Java transaction system featuring dual-entry bookkeeping, defensive state encapsulation, and manual memory management logic
+A high-performance Java transaction system featuring dual-entry bookkeeping, defensive state encapsulation, and manual memory management logic. Engineered with Gradle and JUnit 5 for professional-grade reliability and auditability.
 
 -----------------------------------
 
@@ -25,6 +25,8 @@ Language: Java 21 (or your version)
 Build Tool: Gradle 
 
 CI/CD: GitHub Actions
+
+Testing: JUnit 5
 
 -----------------------------------
 
@@ -61,11 +63,15 @@ IV. Getting Started
 
 Provide clear instructions so anyone can run your tests immediately:
 
-Clone: git clone https://github.com/FadyRiad/transaction-processor-core.git
+Clone: git clone https://github.com/your-username/your-repo-name.git
+
+Build & Test: ./gradlew clean test
+
+Run CLI: ./gradlew run
 
 -----------------------------------
 
-<img width="400" height="1200" alt="mermaid-ai-diagram-2026-01-16-231416" src="https://github.com/user-attachments/assets/0842dcaf-9312-4343-8bed-0a8a1ae2a160" />
+<img width="350" height="900" alt="mermaid-ai-diagram-2026-01-16-231416" src="https://github.com/user-attachments/assets/0842dcaf-9312-4343-8bed-0a8a1ae2a160" />
 
 
 
